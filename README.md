@@ -7,7 +7,7 @@ This repository contains practical solutions to Data Science-related tasks from 
 
 | Project | Description | Kaggle Link|
 |------------------------|:--------------------------------:|:--------------------------------:|
-| 💻 [**Project 1. Medical Cost Personal Datasets**](https://github.com/akramkhal/KaggleProjects/tree/main/MedicalCosts) |Exploratory Data Analysis (EDA) using _**Statistical Analysis**_| [Link](https://www.kaggle.com/datasets/mirichoi0218/insurance)| 
+| 💻 [**Project 1. Medical Cost Personal Datasets**](https://github.com/akramkhal/KaggleProjects/tree/main/MedicalCosts) |Exploratory Data Analysis (EDA) using _**Statistical Analysis and Prediction of Insurance Charges**_| [Link](https://www.kaggle.com/datasets/mirichoi0218/insurance)| 
 | 💻 [**Project 2. Data Science Job Salaries**](https://github.com/akramkhal/KaggleProjects/tree/main/DataScieSalary) |Exploratory Data Analysis (EDA) using _**Statistical Analysis**_|[Link](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries) |
 <!-- 
 | 💻 [**Project 5. Ford vs Ferrari**](https://github.com/macsunmood/SkillFactory_RDS/tree/master/Project%205.%20Ford%20vs%20Ferrari)|классификация модели авто по фотографии; применены продвинутые техники обучения нейросетей: _**Transfer Learning**_, _**Fine-tuning**_, _**Image Augmentation**_, _**Test Time Augmentation**_ и др.|
